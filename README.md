@@ -1,4 +1,4 @@
-# SwiftUI-2.0-Practice-Fructus-App
+# SwiftUI 2.0 Practice App : Fructus
 
 * SwiftUI 2.0 Practice : Fructus App
 * The course material of [SwiftUI Masterclass: iOS 14 App Development with Swift 5](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
