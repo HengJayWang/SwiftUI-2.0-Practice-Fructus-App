@@ -12,7 +12,7 @@
   * Learn how to use the new Disclosure View in SwiftUI 2.0 
   * How to display views dynamically in a List View with a loop
 * The course material of [SwiftUI Masterclass: iOS 14 App Development with Swift 5](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
-* **Copyright © Robert Petras All rights reserved.**
+* **Copyright © [Robert Petras](https://twitter.com/RobertPetras) All rights reserved.**
 
 ---
 * ![](https://i.imgur.com/7Wkk6BZ.png)
